@@ -2,3 +2,6 @@ asukal
 kape
 coffee mate
 danum
+water
+coffee
+latte
